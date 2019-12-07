@@ -1,3 +1,21 @@
 body{
-	background-image : url("ussr.png");
+	background-color: black;
+	color: grey;
 }
+div.lineone{
+	position: absolute;
+	left: 175px;
+	
+
+}
+div.linetwo{
+	position: absolute;
+	left: 500px;
+	
+}
+div.linethree{
+	position: absolute;
+	left:825px;
+	
+}
+/*825*/
